@@ -1,7 +1,0 @@
-CSS pseudo-classes
-This is a class describing particular state of a selected HTML element. Some important pseudo-classes are Hover, Visited, Active, Link, etc.
-
-Syntax: 
-selector: pseudo-class{
-  property: value;
-}
